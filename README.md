@@ -3,6 +3,9 @@
 Assignmnet 1 : Case study of a company  <br>
 Assignment 2 : Instagram User Analytics <br>
 Assignment 3 : Operations Analytics and Investigating Metric Spike <br>
-Assignment 4 : Hiring Process Analytics
+Assignment 4 : Hiring Process Analytics <br>
+Assignment 5 : IMDB Movie Analysis
+Assignment 6 : Bank Loan Case Study
+
 
 by - Ajit Yadav
