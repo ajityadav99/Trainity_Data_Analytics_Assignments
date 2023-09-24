@@ -4,8 +4,10 @@ Assignmnet 1 : Case study of a company  <br>
 Assignment 2 : Instagram User Analytics <br>
 Assignment 3 : Operations Analytics and Investigating Metric Spike <br>
 Assignment 4 : Hiring Process Analytics <br>
-Assignment 5 : IMDB Movie Analysis
-Assignment 6 : Bank Loan Case Study
+Assignment 5 : IMDB Movie Analysis <br>
+Assignment 6 : Bank Loan Case Study <br>
+Assignment 7 : Analyzing the Impact of Car <br>
+Assignment 8 : ABC Call volume Trend Analysis <br>
 
 
 by - Ajit Yadav
